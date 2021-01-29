@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MultiTasking(Tasks)/1.0.0": {
+        "runtime": {
+          "MultiTasking(Tasks).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiTasking(Tasks)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\College\MCSD\C#\MultiTasking(Tasks)\bin\Debug\net5.0\MultiTasking(Tasks).exe
+D:\College\MCSD\C#\MultiTasking(Tasks)\bin\Debug\net5.0\MultiTasking(Tasks).deps.json
+D:\College\MCSD\C#\MultiTasking(Tasks)\bin\Debug\net5.0\MultiTasking(Tasks).runtimeconfig.json
+D:\College\MCSD\C#\MultiTasking(Tasks)\bin\Debug\net5.0\MultiTasking(Tasks).runtimeconfig.dev.json
+D:\College\MCSD\C#\MultiTasking(Tasks)\bin\Debug\net5.0\MultiTasking(Tasks).dll
+D:\College\MCSD\C#\MultiTasking(Tasks)\bin\Debug\net5.0\ref\MultiTasking(Tasks).dll
+D:\College\MCSD\C#\MultiTasking(Tasks)\bin\Debug\net5.0\MultiTasking(Tasks).pdb
+D:\College\MCSD\C#\MultiTasking(Tasks)\obj\Debug\net5.0\MultiTasking(Tasks).csprojAssemblyReference.cache
+D:\College\MCSD\C#\MultiTasking(Tasks)\obj\Debug\net5.0\MultiTasking(Tasks).GeneratedMSBuildEditorConfig.editorconfig
+D:\College\MCSD\C#\MultiTasking(Tasks)\obj\Debug\net5.0\MultiTasking(Tasks).AssemblyInfoInputs.cache
+D:\College\MCSD\C#\MultiTasking(Tasks)\obj\Debug\net5.0\MultiTasking(Tasks).AssemblyInfo.cs
+D:\College\MCSD\C#\MultiTasking(Tasks)\obj\Debug\net5.0\MultiTasking(Tasks).csproj.CoreCompileInputs.cache
+D:\College\MCSD\C#\MultiTasking(Tasks)\obj\Debug\net5.0\MultiTasking(Tasks).dll
+D:\College\MCSD\C#\MultiTasking(Tasks)\obj\Debug\net5.0\ref\MultiTasking(Tasks).dll
+D:\College\MCSD\C#\MultiTasking(Tasks)\obj\Debug\net5.0\MultiTasking(Tasks).pdb
+D:\College\MCSD\C#\MultiTasking(Tasks)\obj\Debug\net5.0\MultiTasking(Tasks).genruntimeconfig.cache
