@@ -1,4 +1,4 @@
-# MultiTasking-Tasks-
+# MultiTasking(Tasks)
 Provides various ways of handling tasks.
 
 ### Options:
