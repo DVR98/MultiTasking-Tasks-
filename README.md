@@ -1,5 +1,5 @@
 # MultiTasking(Tasks)
-When the App is launched, it will ask you to choose between 6 options to show different ways you could achieve an end result by using tasks.
+When the App is launched, it will ask you to choose between 6 options to show different ways you could achieve an end result by using tasks. You should enter a number between 1 and 6.
 
 ### Options:
 1) Basic Task: Writes 1 to 100 by running a task.
